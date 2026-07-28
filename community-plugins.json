@@ -42830,6 +42830,13 @@
     "name": "Finkey",
     "author": "FloRenzi",
     "description": "Generates interactive Sankey diagrams - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mrmupfel/FinKey"
+    "repo": "mrmupfel/FinKey"  },
+  },
+  {
+  "id": "git-ribbon-sync",
+  "name": "Git Ribbon Sync",
+  "author": "deltaplanoo",
+  "description": "Sync vault changes directly from sidebar ribbon buttons via Git.",
+  "repo": "deltaplanoo/git-ribbon-sync"
   }
 ]

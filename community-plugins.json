@@ -42830,7 +42830,7 @@
     "name": "Finkey",
     "author": "FloRenzi",
     "description": "Generates interactive Sankey diagrams - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mrmupfel/FinKey"  },
+    "repo": "mrmupfel/FinKey"
   },
   {
   "id": "git-ribbon-sync",
